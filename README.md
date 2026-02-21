@@ -26,10 +26,10 @@ This script scans all Windows services (except system32 and svchost) and checks 
 ## Usage
 
 ```powershell
-.\hsb.ps1
+powershell.exe .\hsb.ps1
 ```
 
-Run with administrative privileges for best results.
+You can run it with low privilege user.
 
 ## Output
 
